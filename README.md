@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AppRoomProduto: Cadastro de Produtos com Room SQLite
 
 **Alunos:**
@@ -247,3 +248,6 @@ Print: ![A8](docs/prints/a8.PNG)
 3. Aguarde o Gradle sincronizar
 4. Execute em um emulador (API 24+)
 5. No Logcat, use o filtro `tag:TAG` para ver os registros
+=======
+# TP-06
+>>>>>>> 8e45e207eb3e0090d1e3f96b9c64e730e305e71c
